@@ -53,6 +53,7 @@ img:hover {
   vertical-align: top;
   border: 1px solid;
   padding: 10px;
+  float: left;
 }
 
 /* create your tile classes! we recommend .small .med .large */
